@@ -8,7 +8,7 @@
 - シーズン検索に加え、カテゴリボタンによる絞り込みや並び替え機能を追加し、実際のECサイトを意識したUIへ改善しました。
 
 ## ③アプリのデプロイURL
-- https://marochan.sakura.ne.jp/kadai07_db1/post.php
+- https://marochan.sakura.ne.jp/kadai08_db2/post.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
